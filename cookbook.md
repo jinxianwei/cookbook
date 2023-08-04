@@ -44,13 +44,13 @@ windows上用记事本打开，ubuntu上用`cat ~/.ssh/id_rsa.pub`输出到终�
 
 ![image](https://github.com/jinxianwei/CloudImg/assets/81373517/475cb8dd-dd20-48c2-b1f8-132b00d9f726)
 
-![image](https://github.com/jinxianwei/CloudImg/assets/81373517/41cf0f30-7ab3-4c9e-9b86-03bbf1c3d838)
-
 2. 将仓库clone到本地（注意点击SSH，粘SSH下的git链接）
 
 ```
 git clone git@github.com:jinxianwei/cookbook.git
 ```
+
+![image](https://github.com/jinxianwei/CloudImg/assets/81373517/41cf0f30-7ab3-4c9e-9b86-03bbf1c3d838)
 
 3. 习惯用pre-commit规范代码格式
 
